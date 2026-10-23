@@ -207,6 +207,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
 - [resemble-detect](./resemble-detect/) - Detect deepfakes in audio, image, video, and text with confidence scores, audio source tracing, watermarking, and voice-profile identity verification via the Resemble AI platform.
 - [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Use Sigma detection rules to hunt for threats and analyze security events.
+- [uta](https://github.com/alicelabs-llc/uta-ai/tree/main/skills/uta) - Verify and translate AI-agent credentials across 9 formats with a fail-closed 12-stage pipeline.
+- [sentinel-audit](https://github.com/alicelabs-llc/uta-ai/tree/main/skills/sentinel-audit) - Audit and certify MCP servers with Sentinel scans and a provider-side firewall checklist.
 
 ### Developer Marketing Skills
 
